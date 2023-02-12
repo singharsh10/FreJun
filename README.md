@@ -10,7 +10,7 @@ these simple example steps.
 
   1. Clone the repo
 
-     `git clone https://github.com/singharsh10/Music_Recommendation_System.git`
+     `git clone https://github.com/singharsh10/FreJun.git`
   2. Creating virtual environment
       
      `pip install virtualenv`
